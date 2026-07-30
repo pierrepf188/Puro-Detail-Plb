@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#121214" />
+  <!-- Elegant Serif/Sans P -->
+  <text x="45" y="72" font-family="'Times New Roman', serif" font-size="65" font-weight="300" fill="#ffffff" text-anchor="middle">P</text>
+  <!-- Sparkle top right -->
+  <path d="M72 25 L75 35 L85 38 L75 41 L72 51 L69 41 L59 38 L69 35 Z" fill="#ffffff" />
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "Puro Detail",
+  "description": "Exklusives Car Detailing & Fahrzeugaufbereitung in Plettenberg. Premium-Pflege, Lackveredelung und Keramikversiegelung für perfekten Glanz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
